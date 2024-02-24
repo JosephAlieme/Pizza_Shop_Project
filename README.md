@@ -1,6 +1,6 @@
 Project steps:
 
-1. Designed Schema diagram and linked relationships on QucikDBD
+1. Designed Schema diagram and linked relationships on QuickDBD platform
 2. Built a SQL database and created tables on MySQL
 3. Wrote custom queries on MySQl to be used for Dashboard creation
 4. Built interactive dashboards and also created calculated fields from existing data on Tableau
